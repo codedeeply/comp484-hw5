@@ -16,6 +16,8 @@ body {
 	padding: 2.5% 2.5% 0;
 	background: white;
 	line-height: 1.8;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
 }
 h1 {
 	font: 1.6em Verdana, Geneva, sans-serif;

@@ -18,7 +18,7 @@ In this hw, you’ll work on the sample Comp 484 reference site to add site-wide
 			d. The float property controls how elements position themselves and how content flows around them. Preview the intro.htm page and note no change to how text flows around the images. Using a class attribute apply the "floatRight" class to the first image, and the "floatLeft" class to the second image. 
 			d. Save and preview the intro.htm file again to see how the text flows around the images based on the class applied to them. This highlights the power that the class attribute gives us when styling specific elements.
 			
-3.	Set site-wide typography
+4.	(DONE) Set site-wide typography
 			a.	Applies to: styles.css
 			b.	Write a rule that sets the page's default font size to 100% of the user agent's default, and that requests Verdana as the font-family. Set Geneva and the default sans-serif families as fallbacks. Try to do all of this in a single rule if possible.
 			
