@@ -2,16 +2,16 @@ HW5 Controlling Styling
 
 In this hw, you’ll work on the sample Comp 484 reference site to add site-wide styling to the pages and enhance the page's layout and formatting through writing styles
 
-1.	Link external style sheet site-wide
+1.	(DONE) Link external style sheet site-wide
 			a.	Applies to: all pages
 			b.	In the head of each page, use the link element to link to the styles.css file. Be sure to remember to define the styles.css relationship as stylesheet.
 
-2.	Set the background color of pages
+2.	(DONE) Set the background color of pages
 			a.	Applies to: styles.css
 			b.	In the styles.css file, find the html,body rule (which controls the html and body element)
 			c. Set the background color to #663399. As a bonus, if you remember how to format a comment in CSS, add the comment 'Beccapurple' after the color definition.
 
-3.	Float images
+3.	(DONE) Float images
 			a.	Applies to: styles.css
 			b.	Find the .flowRight and .flowLeft selectors
 			c. Set the float property for flowRight to right and flowLeft to left
